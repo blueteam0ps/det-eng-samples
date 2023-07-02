@@ -27,7 +27,10 @@ No  | Activity | MITRE Tactic | MITRE Technique | MITRE Sub-Technique| Source | 
 17 | [Add ApplicationImpersonation role to an app](https://raw.githubusercontent.com/blueteam0ps/det-eng-samples/main/dataset/t1098.002_ApplicationImpersonation.csv) | TA0003-Persistence | T1098 | T1098.002 | ExchangeAdmin | 
 18 | [User removed from an admin group](https://raw.githubusercontent.com/blueteam0ps/det-eng-samples/main/dataset/t1531_Remove-Admin%20members%20from%20a%20group.csv) | TA0040-Impact | T1531 | - | Azure Active Directory | 
 19 | [Remove Auditing license from a user](https://raw.githubusercontent.com/blueteam0ps/det-eng-samples/main/dataset/t1562.008_Advanced%20Auditing%20policy%20removed%20from%20a%20user.csv) | TA0005-Defense Evasion | T1562 | T1562.008 | Azure Active Directory |
-20 | [Remove of a DLP Compliance Policy](https://raw.githubusercontent.com/blueteam0ps/det-eng-samples/main/dataset/t1562.001_Remove-DlpCompliancePolicy.csv) | TA0005-Defense Evasion | T1562 | T1562.001 | Security Compliance Center | |
+20 | [Remove of a DLP Compliance Policy](https://raw.githubusercontent.com/blueteam0ps/det-eng-samples/main/dataset/t1562.001_Remove-DlpCompliancePolicy.csv) | TA0005-Defense Evasion | T1562 | T1562.001 | Security Compliance Center | 
+21 | [Change Consent Permission to allow any user to allow app grants](https://raw.githubusercontent.com/blueteam0ps/det-eng-samples/main/dataset/t1550.001_Allusers_consent_to_grant_permission_granted.json) | TA0005-Defense Evasion | T1550 | T1550.001 | Azure Active Directory | 
+22 | [App Registration for Rclone default config](https://raw.githubusercontent.com/blueteam0ps/det-eng-samples/main/dataset/t1550.001_default_rclone_app_registration.json) | TA0005-Defense Evasion | T1550 | T1550.001 | Azure Active Directory | 
+
 
 Icon for the project
 <a href="https://www.flaticon.com/free-icons/software-testing" title="software testing icons">Software testing icons created by Freepik - Flaticon</a>
