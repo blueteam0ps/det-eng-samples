@@ -1,0 +1,61 @@
+    {
+        "RecordType":  "ExchangeAdmin",
+        "CreationDate":  "\/Date(1728344797000)\/",
+        "UserIds":  "stinger@contoso.onmicrosoft.com",
+        "Operations":  "New-InboxRule",
+        "AuditData":  {
+                          "CreationTime":  "2024-10-07T23:46:37",
+                          "Id":  "67c49fce-3920-4f29-1393-08dce72b48fc",
+                          "Operation":  "New-InboxRule",
+                          "OrganizationId":  "8d4121ed-0008-406d-bff9-0d5bb312183c",
+                          "RecordType":  1,
+                          "ResultStatus":  "True",
+                          "UserKey":  "stinger@contoso.onmicrosoft.com",
+                          "UserType":  2,
+                          "Version":  1,
+                          "Workload":  "Exchange",
+                          "ClientIP":  "104.28.196.199:28491",
+                          "ObjectId":  "APCPR02A013.PROD.OUTLOOK.COM/Microsoft Exchange Hosted Organizations/contoso.onmicrosoft.com/stinger_b5cd7fb7af\\.",
+                          "UserId":  "stinger@contoso.onmicrosoft.com",
+                          "AppId":  "00000002-0000-0ff1-ce00-000000000000",
+                          "AppPoolName":  "MSExchangeOWAAppPool",
+                          "ClientAppId":  "",
+                          "CorrelationID":  "",
+                          "ExternalAccess":  false,
+                          "OrganizationName":  "contoso.onmicrosoft.com",
+                          "OriginatingServer":  "KL1PR02MB6845 (15.20.7982.032)",
+                          "Parameters":  [
+                                             {
+                                                 "Name":  "AlwaysDeleteOutlookRulesBlob",
+                                                 "Value":  "False"
+                                             },
+                                             {
+                                                 "Name":  "Force",
+                                                 "Value":  "False"
+                                             },
+                                             {
+                                                 "Name":  "MoveToFolder",
+                                                 "Value":  "Archive"
+                                             },
+                                             {
+                                                 "Name":  "Name",
+                                                 "Value":  "."
+                                             },
+                                             {
+                                                 "Name":  "MarkAsRead",
+                                                 "Value":  "True"
+                                             },
+                                             {
+                                                 "Name":  "StopProcessingRules",
+                                                 "Value":  "True"
+                                             }
+                                         ],
+                          "RequestId":  "a0f45692-c1c3-9d0e-47d9-b6695cb7e117",
+                          "SessionId":  "9c3eaae9-a913-4161-b3f5-e25c7da47797"
+                      },
+        "ResultIndex":  2,
+        "ResultCount":  44,
+        "Identity":  "67c49fce-3920-4f29-1393-08dce72b48fc",
+        "IsValid":  true,
+        "ObjectState":  "Unchanged"
+    }
