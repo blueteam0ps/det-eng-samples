@@ -1,0 +1,115 @@
+    [{
+        "RecordType":  "ExchangeAdmin",
+        "CreationDate":  "\/Date(1728364117000)\/",
+        "UserIds":  "adam@contoso.onmicrosoft.com",
+        "Operations":  "New-InboxRule",
+        "AuditData":  {
+                          "CreationTime":  "2024-10-08T05:08:37",
+                          "Id":  "80ab29e3-9b72-425c-deba-08dce867426a",
+                          "Operation":  "New-InboxRule",
+                          "OrganizationId":  "8d4121ed-0008-406d-bff9-0d5bb312183c",
+                          "RecordType":  1,
+                          "ResultStatus":  "True",
+                          "UserKey":  "adam@contoso.onmicrosoft.com",
+                          "UserType":  2,
+                          "Version":  1,
+                          "Workload":  "Exchange",
+                          "ClientIP":  "104.28.196.199:28491",
+                          "ObjectId":  "APCPR02A013.PROD.OUTLOOK.COM/Microsoft Exchange Hosted Organizations/contoso.onmicrosoft.com/adam_b5cd7fb7af\\ForwardToHeaven",
+                          "UserId":  "adam@contoso.onmicrosoft.com",
+                          "AppId":  "00000002-0000-0ff1-ce00-000000000000",
+                          "AppPoolName":  "MSExchangeOWAAppPool",
+                          "ClientAppId":  "",
+                          "CorrelationID":  "",
+                          "ExternalAccess":  false,
+                          "OrganizationName":  "contoso.onmicrosoft.com",
+                          "OriginatingServer":  "KL1PR02MB6845 (15.20.7982.032)",
+                          "Parameters":  [
+                                             {
+                                                 "Name":  "AlwaysDeleteOutlookRulesBlob",
+                                                 "Value":  "False"
+                                             },
+                                             {
+                                                 "Name":  "Force",
+                                                 "Value":  "False"
+                                             },
+                                             {
+                                                 "Name":  "ForwardTo",
+                                                 "Value":  "alpha@localhost.com"
+                                             },
+                                             {
+                                                 "Name":  "Name",
+                                                 "Value":  "ForwardToHeaven"
+                                             },
+                                             {
+                                                 "Name":  "StopProcessingRules",
+                                                 "Value":  "True"
+                                             }
+                                         ],
+                          "RequestId":  "03cd92e6-ccc1-394b-1de8-90a3e311677d",
+                          "SessionId":  "87bfd35a-633e-41ae-8656-d9029c255b94"
+                      },
+        "ResultIndex":  30,
+        "ResultCount":  40,
+        "Identity":  "80ab29e3-9b72-425c-deba-08dce867426a",
+        "IsValid":  true,
+        "ObjectState":  "Unchanged"
+    },
+    {
+        "RecordType":  "ExchangeAdmin",
+        "CreationDate":  "\/Date(1728364267000)\/",
+        "UserIds":  "stinger@contoso.onmicrosoft.com",
+        "Operations":  "New-InboxRule",
+        "AuditData":  {
+                          "CreationTime":  "2024-10-08T05:11:07",
+                          "Id":  "80ab29e3-9b72-425c-deba-08dce757425a",
+                          "Operation":  "New-InboxRule",
+                          "OrganizationId":  "8d4121ed-0008-406d-bff9-0d5bb312183c",
+                          "RecordType":  1,
+                          "ResultStatus":  "True",
+                          "UserKey":  "stinger@contoso.onmicrosoft.com",
+                          "UserType":  2,
+                          "Version":  1,
+                          "Workload":  "Exchange",
+                          "ClientIP":  "104.28.196.199:28491",
+                          "ObjectId":  "APCPR02A013.PROD.OUTLOOK.COM/Microsoft Exchange Hosted Organizations/contoso.onmicrosoft.com/stinger_b5cd7fb7af\\ForwardToHeaven",
+                          "UserId":  "stinger@contoso.onmicrosoft.com",
+                          "AppId":  "00000002-0000-0ff1-ce00-000000000000",
+                          "AppPoolName":  "MSExchangeOWAAppPool",
+                          "ClientAppId":  "",
+                          "CorrelationID":  "",
+                          "ExternalAccess":  false,
+                          "OrganizationName":  "contoso.onmicrosoft.com",
+                          "OriginatingServer":  "TYZPR02MB4767 (15.20.7982.032)",
+                          "Parameters":  [
+                                             {
+                                                 "Name":  "AlwaysDeleteOutlookRulesBlob",
+                                                 "Value":  "False"
+                                             },
+                                             {
+                                                 "Name":  "Force",
+                                                 "Value":  "False"
+                                             },
+                                             {
+                                                 "Name":  "ForwardTo",
+                                                 "Value":  "alpha@localhost.com"
+                                             },
+                                             {
+                                                 "Name":  "Name",
+                                                 "Value":  "ForwardToHeaven"
+                                             },
+                                             {
+                                                 "Name":  "StopProcessingRules",
+                                                 "Value":  "True"
+                                             }
+                                         ],
+                          "RequestId":  "59839e49-ebb9-0704-9066-a68489569b85",
+                          "SessionId":  "9c3eaae9-a913-4161-b3f5-e25c7da47797"
+                      },
+        "ResultIndex":  17,
+        "ResultCount":  44,
+        "Identity":  "80ab29e3-9b72-425c-deba-08dce757425a",
+        "IsValid":  true,
+        "ObjectState":  "Unchanged"
+    }
+    ]
